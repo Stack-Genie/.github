@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 What We Do
+### What We Do
 
 We help individuals, startups, and teams build optimized AI-powered workflows by simply **dragging and dropping their use case**.
 
@@ -18,36 +18,38 @@ StackGenie will generate a complete, recommended AI stack for you — **tools, i
 
 ---
 
-### 🧠 How It Works
+### How It Works
 
 1. **Drag & drop your use case**
-2. 🪄 **Get a tailored stack** (e.g. ChatGPT + Zapier + Notion AI)
-3. 🔌 **See how they integrate**
-4. 💸 **Compare free & paid options**
-5. 🧾 **Export, save, and deploy** your stack
+2. **Get a tailored stack** (e.g. ChatGPT + Zapier + Notion AI)
+3. **See how they integrate**
+4. **Compare free & paid options**
+5. **Export, save, and deploy** your stack
 
 ---
 
-### 🔍 Why StackGenie.ai?
+### Why StackGenie.ai?
 
-- ✅ Beginner-friendly UI
-- 🛠️ Pre-built stack templates for common tasks
-- 🌐 Integration maps (Zapier, APIs, etc.)
-- 📊 Transparent pricing comparisons
-- 🧩 Open-source and freemium tools suggested
+- Beginner-friendly UI
+- Pre-built stack templates for common tasks
+- Integration maps (Zapier, APIs, etc.)
+- Transparent pricing comparisons
+- Open-source and freemium tools suggested
 
 ---
 
-### 👥 Who It’s For
+### Who It’s For
 
-- Freelancers & Creators  
-- Small Business Owners  
-- Marketing & Ops Teams  
+- Freelancers
+- Creators  
+- Business Owners  
+- Marketing
+- Ops Teams  
 - AI Enthusiasts & Builders  
 
 ---
 
-### 📬 Stay Tuned
+### Stay Tuned
 
 We’re launching soon! Follow us or contribute to the vision.
 
@@ -56,4 +58,4 @@ We’re launching soon! Follow us or contribute to the vision.
 
 ---
 
-*Built with 💙 by humans + AI to simplify your AI journey.*
+*Built with 💙 by Steven Mathew + AI to simplify your AI journey.*
